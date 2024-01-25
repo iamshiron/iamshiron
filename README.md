@@ -18,7 +18,4 @@
 - [SparkUI-Back](https://github.com/Limieon/SparkUI-Back)
 - [GenesisEngine](https://github.com/Limieon/GenesisEngine)
 
-## 🎧 Spotify Playlist
-<iframe src="https://open.spotify.com/embed/playlist/1j1PZk6GMhHT4RW0jofnNg" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 ![Visitor Count](https://profile-counter.glitch.me/Limieon/count.svg)
