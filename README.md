@@ -39,8 +39,8 @@ I'm also using the following Libraries/Frameworks:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Limieon&theme=synthwave&border_radius=5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ## 🗂️ Highlight Projects
-- [SparkUI-Front](https://github.com/Limieon/SparkUI-Front)
-- [SparkUI-Back](https://github.com/Limieon/SparkUI-Back)
+- [SparkUI.Core](https://github.com/Limieon/SparkUI.Core)
+- [SparkUI.Node](https://github.com/Limieon/SparkUI.Node)
 - [GenesisEngine](https://github.com/Limieon/GenesisEngine)
 
 ![Visitor Count](https://profile-counter.glitch.me/Limieon/count.svg)
