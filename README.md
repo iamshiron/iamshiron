@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Limieon
+# Hi there 👋, I'm Shiron
 Hello, I'm Justin Jakob, a 20-year-old software developer (born in 2004).
 I started my journey back in the 7th grade by learning how to create Minecraft mods using Java and Forge.  
 Currently, I'm mainly working on a StableDiffusion WebUI and experimenting with AI stuff. Later on, I also plan to continue or start over my voxel game engine.
