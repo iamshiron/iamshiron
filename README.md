@@ -33,7 +33,7 @@ Here are some of the languages, libraries, and frameworks I'm most comfortable w
 
 Here are a few projects I'm proud of. You can find more on my repositories page!
 * **[Cryo](https://github.com/iamshiron/Cryo)** - An agentic AI framework I am developing
-* **[Manila](https://github.com/iamshiron/Manila)** - A flexible build system written in C#, using JavaScript for build configuration
+* **[ManilaBuild](https://github.com/iamshiron/ManilaBuild)** - A flexible build system written in C#, using JavaScript for build configuration
 * **[GenesisEngine](https://github.com/iamshiron/GenesisEngine)** - A voxel game engine I hopefully won't abondon
 
 ---
