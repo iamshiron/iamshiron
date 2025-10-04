@@ -1,6 +1,6 @@
 # Hi there, I'm Shiron 👋
 
-I'm a passionate 20-year-old software developer with a journey that began in 7th grade creating Minecraft mods with Java. Today, I'm diving deep into the world of Artificial Intelligence, experimenting with Stable Diffusion, and building intelligent applications. I'm also enthusiastic about 3D graphics and have ongoing plans for my voxel game engine.
+I'm a passionate 21-year-old software developer with a journey that began in 7th grade creating Minecraft mods with Java. Today, I'm diving deep into the world of Artificial Intelligence, experimenting with Stable Diffusion, and building intelligent applications. I'm also enthusiastic about 3D graphics and have ongoing plans for my voxel game engine.
 
 I have a strong preference for statically-typed languages and enjoy building robust and efficient applications.
 
